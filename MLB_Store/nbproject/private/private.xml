@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/controller/UserController.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/web/home.jsp</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/controller/ImageServlet.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/dao/UsersDAO.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/model/Categories.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/controller/AddToCartController.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/util/DatabaseConnection.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/model/Orders.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/web/logout.jsp</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/dao/ProductsDAO.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/model/Products.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/dao/OrderDAO.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/model/CartItem.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/controller/AddProductController.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/web/admin-product.jsp</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/web/view-cart.jsp</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/model/Cart.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/web/register.jsp</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/web/product-detail.jsp</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/web/add-product.jsp</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/controller/CheckoutController.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/controller/MainController.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/dao/OrderDetailDAO.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/web/index.jsp</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/web/login.jsp</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/src/java/model/OrderDetails.java</file>
+            <file>file:/E:/MLB/MLB_Store/MLB_Store/web/products.jsp</file>
+        </group>
+    </open-files>
+</project-private>
